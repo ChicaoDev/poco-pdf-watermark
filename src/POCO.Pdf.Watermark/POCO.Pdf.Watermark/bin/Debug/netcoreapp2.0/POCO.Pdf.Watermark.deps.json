@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "ebf03da090cf9f1799ac88e0310de4b70137a49b"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "POCO.Pdf.Watermark/1.0.0": {
+        "dependencies": {
+          "iTextSharp": "5.5.11"
+        },
+        "runtime": {
+          "POCO.Pdf.Watermark.dll": {}
+        }
+      },
+      "iTextSharp/5.5.11": {
+        "runtime": {
+          "lib/itextsharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POCO.Pdf.Watermark/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "iTextSharp/5.5.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zL+YDlwSmD/kcU1uoWHE7Ph2hEsnVaV2ICnB5nYXm86v6+KKxjO5zOEh2jCotz0IlqaTLlv5XCInU5Czc2mzDw==",
+      "path": "itextsharp/5.5.11",
+      "hashPath": "itextsharp.5.5.11.nupkg.sha512"
+    }
+  }
+}

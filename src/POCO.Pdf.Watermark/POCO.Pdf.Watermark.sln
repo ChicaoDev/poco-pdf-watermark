@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCO.Pdf.Watermark", "POCO.Pdf.Watermark\POCO.Pdf.Watermark.csproj", "{D5D9A8B6-EB07-4CF0-B3FE-258681F9676E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5D9A8B6-EB07-4CF0-B3FE-258681F9676E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D9A8B6-EB07-4CF0-B3FE-258681F9676E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D9A8B6-EB07-4CF0-B3FE-258681F9676E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D9A8B6-EB07-4CF0-B3FE-258681F9676E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F52D16CF-A953-4032-83AB-775E865A7845}
+	EndGlobalSection
+EndGlobal

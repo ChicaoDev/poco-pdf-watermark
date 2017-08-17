@@ -1,0 +1,11 @@
+C:\Projetos\poco-pdf-watermark\src\POCO.Pdf.Watermark\POCO.Pdf.Watermark\obj\Debug\netcoreapp2.0\POCO.Pdf.Watermark.csprojResolveAssemblyReference.cache
+C:\Projetos\poco-pdf-watermark\src\POCO.Pdf.Watermark\POCO.Pdf.Watermark\obj\Debug\netcoreapp2.0\POCO.Pdf.Watermark.csproj.CoreCompileInputs.cache
+C:\Projetos\poco-pdf-watermark\src\POCO.Pdf.Watermark\POCO.Pdf.Watermark\obj\Debug\netcoreapp2.0\POCO.Pdf.Watermark.AssemblyInfoInputs.cache
+C:\Projetos\poco-pdf-watermark\src\POCO.Pdf.Watermark\POCO.Pdf.Watermark\obj\Debug\netcoreapp2.0\POCO.Pdf.Watermark.AssemblyInfo.cs
+C:\Projetos\poco-pdf-watermark\src\POCO.Pdf.Watermark\POCO.Pdf.Watermark\bin\Debug\netcoreapp2.0\POCO.Pdf.Watermark.deps.json
+C:\Projetos\poco-pdf-watermark\src\POCO.Pdf.Watermark\POCO.Pdf.Watermark\bin\Debug\netcoreapp2.0\POCO.Pdf.Watermark.runtimeconfig.json
+C:\Projetos\poco-pdf-watermark\src\POCO.Pdf.Watermark\POCO.Pdf.Watermark\bin\Debug\netcoreapp2.0\POCO.Pdf.Watermark.runtimeconfig.dev.json
+C:\Projetos\poco-pdf-watermark\src\POCO.Pdf.Watermark\POCO.Pdf.Watermark\bin\Debug\netcoreapp2.0\POCO.Pdf.Watermark.dll
+C:\Projetos\poco-pdf-watermark\src\POCO.Pdf.Watermark\POCO.Pdf.Watermark\bin\Debug\netcoreapp2.0\POCO.Pdf.Watermark.pdb
+C:\Projetos\poco-pdf-watermark\src\POCO.Pdf.Watermark\POCO.Pdf.Watermark\obj\Debug\netcoreapp2.0\POCO.Pdf.Watermark.dll
+C:\Projetos\poco-pdf-watermark\src\POCO.Pdf.Watermark\POCO.Pdf.Watermark\obj\Debug\netcoreapp2.0\POCO.Pdf.Watermark.pdb
